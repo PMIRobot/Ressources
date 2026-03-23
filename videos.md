@@ -1,4 +1,4 @@
-video trajectoire pilotée (image du resultat dans le dossier) : [lien](https://ipsafr.sharepoint.com/:v:/r/sites/PMI_rwk6xb/Documents%20partages/General/images%20rapport/trajectoire_robot_joystick.mp4?csf=1&web=1&e=htaekH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video trajectoire pilotée (image du resultat dans le dossier) : [lien](https://ipsafr.sharepoint.com/:v:/s/PMI_rwk6xb/IQCvNNUaNGyOSLMROkuaYbvgAWPYP0kDSj7eSSEcnzCJ7Ic?e=FDdJWA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 video calibrage : [lien](https://ipsafr.sharepoint.com/:v:/r/sites/PMI_rwk6xb/Documents%20partages/General/images%20rapport/VID_20260116_142613.mp4?csf=1&web=1&e=AJmef8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
